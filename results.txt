@@ -1,0 +1,13 @@
+File LHR2025.csv selected - Planes departing London Heathrow in 2025.
+**********************************************************************
+The total number of flights from this airport was 290
+The total number of flights departing Runway one was 151
+The total number of departures of flights over 500 miles was 182
+There were 88 British Airways flights from this airport
+There were 153 flights from this airport departing in rain
+There was an average of 24.17 flights per hour from this airport
+Air France planes made up 16.21% of all departures
+29.31% of all departures were delayed
+There were 6 hours in which rain fell
+The most common destinations are ['IST']
+
