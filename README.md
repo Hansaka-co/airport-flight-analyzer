@@ -51,7 +51,7 @@ It saves every report to a text file, and lets you plot a **histogram** of depar
 ### Run it
 
 ```bash
-python 20232474.py
+python flight_anlizer.py
 ```
 
 Then just follow the prompts:
@@ -68,7 +68,7 @@ Then just follow the prompts:
 
 ```
 .
-├── 20232474.py      # Main program
+├── flight_anlizer.py      # Main program
 ├── graphics.py      # Graphics library for the histogram
 ├── LHR2025.csv      # Sample data: London Heathrow, 2025
 ├── CDG2021.csv      # Sample data: Charles De Gaulle, 2021
